@@ -1,2 +1,1 @@
-# QFTJL-Random-Commander-Website
- 
+# QFTJL-Random-Commander-Generator
