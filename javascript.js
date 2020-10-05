@@ -10,7 +10,7 @@ var commanders = [
 'Alexi, Zephyr Mage',
 'Alhammarret, High Arbiter',
 'Anax and Cymede',
-'Anowon, the Ruin Sage',
+//'Anowon, the Ruin Sage',
 'Anthousa, Setessan Hero',
 'Arcanis the Omnipotent',
 'Asmira, Holy Avenger',
